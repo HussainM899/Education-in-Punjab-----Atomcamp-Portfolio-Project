@@ -1,7 +1,7 @@
 # Education in Punjab Analysis Project
 
 ## Objective
-The objective of this project was to analyze the state of education in Punjab, Pakistan, leveraging a $3 billion investment from an international Ed-Tech company. The focus was on maximizing the impact of funds for educational growth, with an emphasis on infrastructure development, gender equality, and quality improvement in primary and secondary education.
+The objective of this project was to analyze the state of education in Punjab, Pakistan, leveraging a **$3 Billion** investment from an international Ed-Tech company. The focus was on maximizing the impact of funds for educational growth, with an emphasis on infrastructure development, gender equality, and quality improvement in primary and secondary education.
 
 ## Key Insights
 - **Infrastructure Development:** Prioritized to provide quality learning environments.
